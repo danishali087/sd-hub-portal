@@ -21,7 +21,7 @@
   align-content: center; */
 }
 .img{
-  background-color: #fff;
+  background-color:white;
   height: 70px;
   width: 70px;
   border-radius: 50%;
@@ -30,7 +30,7 @@
 .login-head img{
   max-width: 70px;
   max-height: 70px;
-  margin-top: 23px;
+  margin-top: 0px;
 }
 .login-head h1{
   font-family: 'Times New Roman', Times, serif;
